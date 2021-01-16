@@ -1,3 +1,8 @@
+# Для запуска проекта необходимо установить Nginx и npm
+sudo apt update
+sudo apt install nginx
+
+npm install
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
