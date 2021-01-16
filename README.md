@@ -1,5 +1,6 @@
 # Для запуска проекта необходимо установить Nginx и npm
 sudo apt update
+
 sudo apt install nginx
 
 npm install
